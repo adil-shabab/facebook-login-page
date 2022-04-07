@@ -8,3 +8,46 @@ a{
     text-decoration: none;
 }
 /* global section  */
+
+
+
+
+
+/* section styling */
+.box{
+    width: 85%;
+    height: auto;
+    margin: 0 auto;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    padding: 45px 40px;
+
+}
+.main{
+    background-color: #f0f2f5;
+    height: 100vh;
+}
+.section{
+    margin-top: 100px;
+}
+h2{
+    color: #1877f2;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.para{
+    font-size: 19px;
+}
+.create{
+    height: 42px;
+    font-weight: bold;
+}
+.form-group input{
+    height: 45px;
+}
+.login{
+    height: 42px;
+    margin-bottom: 10px;
+}
+
+/* section styling */
